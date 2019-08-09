@@ -50,8 +50,8 @@ class FastImageViewConverter {
                 put("high", Priority.HIGH);
             }};
 
-    private static final Map<String, ImageView.ScaleType> FAST_IMAGE_RESIZE_MODE_MAP =
-            new HashMap<String, ImageView.ScaleType>() {{
+    private static final Map<String, ScaleType> FAST_IMAGE_RESIZE_MODE_MAP =
+            new HashMap<String, ScaleType>() {{
                 put("contain", ScaleType.FIT_CENTER);
                 put("cover", ScaleType.CENTER_CROP);
                 put("stretch", ScaleType.FIT_XY);
