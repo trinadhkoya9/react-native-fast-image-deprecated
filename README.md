@@ -2,6 +2,10 @@
   🚩 FastImage
 </h1>
 
+# react-native-fast-img
+
+The current latest version which is leading to Xcode crash. So i made couple of changes to 6.1.1
+
 <div align="center">
 
 Performant React Native image component.
@@ -264,4 +268,5 @@ Thanks to [@mobinni](https://github.com/mobinni) for helping with the conceptual
 [github-watch]: https://github.com/dylanvann/react-native-fast-image/watchers
 [github-star-badge]: https://img.shields.io/github/stars/dylanvann/react-native-fast-image.svg?style=social
 [github-star]: https://github.com/dylanvann/react-native-fast-image/stargazers
-# react-native-fast-image-deprecated
+
+
