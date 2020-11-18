@@ -60,7 +60,7 @@
         "react": "16.8.3",
         "react-native": "^0.59.5",
         "react-test-renderer": "16.8.6",
-        "semantic-release": "^15.13.18"
+        "semantic-release": "^17.2.3"
     },
     "peerDependencies": {
         "prop-types": "^15.7.2",
